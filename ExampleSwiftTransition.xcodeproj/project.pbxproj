@@ -13,6 +13,8 @@
 		71ADFB7D28FBDDC000BCE27F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71ADFB7B28FBDDC000BCE27F /* Main.storyboard */; };
 		71ADFB7F28FBDDC100BCE27F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71ADFB7E28FBDDC100BCE27F /* Assets.xcassets */; };
 		71ADFB8228FBDDC100BCE27F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71ADFB8028FBDDC100BCE27F /* LaunchScreen.storyboard */; };
+		71ADFB8C28FBEB4F00BCE27F /* Screen2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71ADFB8B28FBEB4F00BCE27F /* Screen2.storyboard */; };
+		71ADFB8E28FBECB400BCE27F /* Screen3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71ADFB8D28FBECB400BCE27F /* Screen3.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		71ADFB7E28FBDDC100BCE27F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71ADFB8128FBDDC100BCE27F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71ADFB8328FBDDC100BCE27F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71ADFB8B28FBEB4F00BCE27F /* Screen2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Screen2.storyboard; sourceTree = "<group>"; };
+		71ADFB8D28FBECB400BCE27F /* Screen3.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Screen3.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +64,11 @@
 				71ADFB7728FBDDC000BCE27F /* SceneDelegate.swift */,
 				71ADFB7928FBDDC000BCE27F /* ViewController.swift */,
 				71ADFB7B28FBDDC000BCE27F /* Main.storyboard */,
+				71ADFB8B28FBEB4F00BCE27F /* Screen2.storyboard */,
 				71ADFB7E28FBDDC100BCE27F /* Assets.xcassets */,
 				71ADFB8028FBDDC100BCE27F /* LaunchScreen.storyboard */,
 				71ADFB8328FBDDC100BCE27F /* Info.plist */,
+				71ADFB8D28FBECB400BCE27F /* Screen3.storyboard */,
 			);
 			path = ExampleSwiftTransition;
 			sourceTree = "<group>";
@@ -128,6 +134,8 @@
 				71ADFB8228FBDDC100BCE27F /* LaunchScreen.storyboard in Resources */,
 				71ADFB7F28FBDDC100BCE27F /* Assets.xcassets in Resources */,
 				71ADFB7D28FBDDC000BCE27F /* Main.storyboard in Resources */,
+				71ADFB8C28FBEB4F00BCE27F /* Screen2.storyboard in Resources */,
+				71ADFB8E28FBECB400BCE27F /* Screen3.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
